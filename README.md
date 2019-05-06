@@ -23,3 +23,9 @@
 Note: If you're using docker-compose file default IP is already set.<br>
 Otherwise, please set global environment variable as
 VALIDATOR_URL="tcp://<VALIDATOR-IP>:4004"
+
+### Installtion on Ubuntu
+
+Please following the instructions in the following Dockerfile<br>
+
+https://github.com/hyperledger/sawtooth-sdk-go/blob/master/Dockerfile
