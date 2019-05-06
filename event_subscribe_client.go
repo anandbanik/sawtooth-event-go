@@ -14,9 +14,9 @@ import (
 )
 
 const (
-	DEFAULT_VALIDATOR_URL = "tcp://validator:4004"
+	DEFAULT_VALIDATOR_URL = "tcp://localhost:4004"
 	// Calculated from the 1st 6 characters of SHA-512 - TBD?:
-	RAZORBACK_TP_ADDRESS_PREFIX = "a4d219"
+	RAZORBACK_TP_ADDRESS_PREFIX = "5b7349"
 )
 
 // Global variable for remembering validator URL
